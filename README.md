@@ -43,5 +43,17 @@ I am passionate about web development, software testing, and automation, and I l
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
   <img width="12"/>
   
-  <!-- Testing & Automation -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/j
+ <!-- Testing & Automation -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest logo" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-plain.svg" height="40" alt="Cypress logo" />
+</div>
+
+###
+
+<h2 align="left">Contact</h2>
+
+<p align="left">
+📧 Email: <a href="mailto:samah@example.com">samah@example.com</a><br>
+🌐 GitHub: <a href="https://github.com/samah-abozaid">github.com/samah-abozaid</a>
+</p>
