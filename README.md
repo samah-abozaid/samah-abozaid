@@ -54,6 +54,6 @@ I am passionate about web development, software testing, and automation, and I l
 <h2 align="left">Contact</h2>
 
 <p align="left">
-📧 Email: <a href="mailto:samah@example.com">samah@example.com</a><br>
+📧 Email: <a href="mailto:samah.abozaid89@gmail.com">samah.abozaid89@gmail.com</a><br>
 🌐 GitHub: <a href="https://github.com/samah-abozaid">github.com/samah-abozaid</a>
 </p>
