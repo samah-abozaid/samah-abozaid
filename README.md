@@ -46,8 +46,6 @@ I am passionate about web development, software testing, and automation, and I l
  <!-- Testing & Automation -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest logo" />
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-plain.svg" height="40" alt="Cypress logo" />
-</div>
 
 ###
 
